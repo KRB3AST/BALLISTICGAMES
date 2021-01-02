@@ -5,17 +5,17 @@
     <key>CFBundleDevelopmentRegion</key>
     <string>English</string>
     <key>CFBundleExecutable</key>
-    <string>Cyborg Ninja</string>
+    <string>Ballistic</string>
     <key>CFBundleGetInfoString</key>
     <string>Unity Player version 2020.2.0f1 (3721df5a8b28). (c) 2020 Unity Technologies ApS. All rights reserved.</string>
     <key>CFBundleIconFile</key>
     <string>PlayerIcon.icns</string>
     <key>CFBundleIdentifier</key>
-    <string>com.DefaultCompany.CyborgNinja</string>
+    <string>com.KRGames.Ballistic</string>
     <key>CFBundleInfoDictionaryVersion</key>
     <string>6.0</string>
     <key>CFBundleName</key>
-    <string>Cyborg Ninja</string>
+    <string>Ballistic</string>
     <key>CFBundlePackageType</key>
     <string>APPL</string>
     <key>CFBundleShortVersionString</key>
